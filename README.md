@@ -56,7 +56,7 @@ Sentences for pro 1:‘C_01_01.wav’ & ‘C_01_02.wav’
 
 ## Application: Cochlear Implants
 
-![image](https://user-images.githubusercontent.com/117464811/231827981-0bde1939-2883-4357-8fbb-2df1330abfe4.png)
+![README_page-0014](https://user-images.githubusercontent.com/117464811/231828771-faf99973-dca8-4114-9d0c-8bda353d3611.jpg)
 
 ## Speech processing in cochlear implants
 
