@@ -2,6 +2,8 @@ clear
 clc
 
 [sig,fs] = audioread('C_01_01.wav');
+% [sig,fs] = audioread('C_01_02.wav');
+
 N = length(sig);
 f = fs*(-N/2:N/2-1)/N;
 y1_1 = tonevocoder(sig,fs,50,1);
